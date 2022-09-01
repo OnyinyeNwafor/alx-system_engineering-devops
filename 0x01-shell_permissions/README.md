@@ -1,2 +1,2 @@
 #!/bin/bash
-script that prints all the groups the current user is part of.
+script that creates an empty file called hello
